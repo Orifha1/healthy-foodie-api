@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+*.local
+
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+ormconfig.json
+.env
+
